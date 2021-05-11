@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: samplemed-users-package
+Version: 0.0.1
+Summary: This is a package for instalation test.
+Home-page: git@github.com:EliasOPrado2/private-users-package-api-sample.git
+Author: Elias Prado
+Author-email: elias.prado@samplemed.com
+License: samplemed
+Description: UNKNOWN
+Platform: UNKNOWN
